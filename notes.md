@@ -9,6 +9,6 @@ Also check out the French create studio website [Waark](https://waaark.com). All
 are implemented using CSS.
 
 ## 7. Why Animations Matter
-Read the article [Improve the Payment Experience with Animations] (https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e) by Michael Villar of Stripe.
+Read the article [Improve the Payment Experience with Animations](https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e) by Michael Villar of Stripe.
 
 
