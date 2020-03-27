@@ -11,4 +11,14 @@ are implemented using CSS.
 ## 7. Why Animations Matter
 Read the article [Improve the Payment Experience with Animations](https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e) by Michael Villar of Stripe.
 
+## 8. Intro to Pseudoclasses
+Explaination of [pseduclasses on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+
+## 9. Pseudo-classes: Hover
+Here is the basic syntax:
+```css
+div::hover {
+    background: purple;
+}
+```
 
